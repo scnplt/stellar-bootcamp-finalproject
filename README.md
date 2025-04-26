@@ -1,5 +1,7 @@
 # Soroban Project
 
+ Token: [CCTYBJQDDMPOLY2XV4K633EFRT5IACYLMP7WFPGQYZ3UVH7HLNH7LYWC](https://stellar.expert/explorer/testnet/contract/CCTYBJQDDMPOLY2XV4K633EFRT5IACYLMP7WFPGQYZ3UVH7HLNH7LYWC)
+
 This project is a standard token contract developed on the Soroban platform. Soroban is a smart contract platform that runs on the Stellar blockchain.
 
 ## Project Overview
